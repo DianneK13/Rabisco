@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		C97EE8F82FE58F5900ED6B21 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = C97EE8F72FE58F5900ED6B21 /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		C90F5F632FBDF9BE00F42B83 /* Rabisco.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Rabisco.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C97EE8F72FE58F5900ED6B21 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -32,6 +37,7 @@
 		C90F5F5A2FBDF9BE00F42B83 = {
 			isa = PBXGroup;
 			children = (
+				C97EE8F72FE58F5900ED6B21 /* README.md */,
 				C90F5F652FBDF9BE00F42B83 /* Rabisco */,
 				C90F5F642FBDF9BE00F42B83 /* Products */,
 			);
@@ -109,6 +115,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C97EE8F82FE58F5900ED6B21 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
